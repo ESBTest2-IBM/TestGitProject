@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/ESBTest2-IBM
   gitUsername: ESBTest2-IBM
   gitBranch: main
+services:
+- serviceName: project.testgit.integrations:mathInt
+  packages:
+  - name: TestGitProject
+    version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1308
