@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/ESBTest2-IBM
   gitUsername: ESBTest2-IBM
   gitBranch: main
+- name: TPP11
+  gitServerName: esb_shared
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: ESBTest2-IBM
+  gitBranch: main
 services:
 - serviceName: project.testgit.integrations:mathInt
   packages:
