@@ -11,17 +11,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="TPP11">1.0</value>
+    <value name="TP11">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">7</value>
+  <value name="build">8</value>
   <null name="description"/>
   <value name="created_date">21-10-2026 10:18:11 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-10-21T15:56:11.760947404Z</value>
+  <value name="lastUpdated">2026-10-21T15:58:17.199753167Z</value>
   <value name="creator">ESBTest2 ESBTest2</value>
 </Values>
