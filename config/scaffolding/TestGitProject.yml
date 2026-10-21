@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestGitProject
+  gitServerName: esb_shared
+  gitUrl: https://github.com/ESBTest2-IBM
+  gitUsername: ESBTest2-IBM
+  gitBranch: main
