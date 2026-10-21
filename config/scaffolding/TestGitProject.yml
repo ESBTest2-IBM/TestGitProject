@@ -16,3 +16,7 @@ services:
   packages:
   - name: WmPublic
     version: 12.1.0.0.1308
+- serviceName: project.testgit.integrations:toStringTest
+  packages:
+  - name: TestGitProject
+    version: "1.0"
