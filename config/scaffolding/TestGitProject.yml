@@ -13,7 +13,7 @@ packages:
   gitUsername: ESBTest2-IBM
   gitBranch: main
 - name: TP11
-  gitServerName: esb_shared_2
+  gitServerName: esb_shared
   gitUrl: https://github.com/Palak-IBM
   gitUsername: ESBTest2-IBM
   gitBranch: main
